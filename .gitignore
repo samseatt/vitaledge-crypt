@@ -1,0 +1,33 @@
+# Build files
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+
+# Libraries (compiled/generated files)
+lib/
+*.o
+*.so
+*.dylib
+*.a
+
+# Documentation work-in-progress
+docs-wip/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor and IDE configuration
+.vscode/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Vim swap files
+*.swp
+
+# Sensitive files
+*.pem
